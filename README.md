@@ -1,4 +1,4 @@
-# 📰 Fake News Detection System (2026 Edition)
+# 📰 Fake News Detection System 
 
 An advanced, enterprise-grade Machine Learning system designed to accurately classify news articles as **Real** or **Fake**. This project utilizes a massive **117,000-row NLP dataset**, a meticulously tuned `LogisticRegression` model, and a decoupled **FastAPI + React/Vite** microservice architecture.
 
