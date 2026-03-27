@@ -1,0 +1,16 @@
+# Python environments
+.venv/
+__pycache__/
+
+# Gigantic Data & Model files (GitHub blocks files > 100MB)
+*.csv
+# vectorizer.pkl is 186MB, which exceeds GitHub's limit!
+vectorizer.pkl
+model.pkl
+
+# Node modules
+node_modules/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
